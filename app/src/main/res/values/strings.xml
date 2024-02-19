@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">magic8ball</string>
+    <string-array name="magic_8_ball_answers">
+        <item>It is certain.</item>
+        <item>Without a doubt.</item>
+        <item>Yes- Definitely.</item>
+        <item>You may rely on it.</item>
+        <item>As I see it, yes.</item>
+        <item>Most likely.</item>
+        <item>Outlook good.</item>
+        <item>Signs point to yes.</item>
+        <item>Reply hazy, try again.</item>
+        <item>Ask again later.</item>
+        <item>Cant tell you now.</item>
+        <item>My sources say no.</item>
+        <item>Very doubtful.</item>
+        <item>Outlook not so good.</item>
+        <item>It is clearly impossible.</item>
+        <item>Very doubtful.</item>
+        <item>No Way!</item>
+    </string-array>
+</resources>
